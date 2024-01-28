@@ -1,0 +1,37 @@
+@media (max-width: 600px) {
+  /* HEADER SECTION */
+
+  header {
+    position: relative;
+  }
+
+  /* NAVIGATION SECTION */
+
+  nav {
+    display: none;
+    position: absolute;
+    top: 70px;
+    background-color: var(--header);
+    width: 100%;
+  }
+
+  nav li {
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  .menu-icon {
+    display: block;
+    color: var(--white);
+    cursor: pointer;
+  }
+
+  /* MAIN SECTION */
+
+  .article {
+    max-width: 90%;
+    margin: 20px auto;
+    font-size: 1.2em;
+  }
+}
