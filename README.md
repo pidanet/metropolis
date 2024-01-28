@@ -1,2 +1,2 @@
-# metropolis
-Projekt 2: Stránka s responzivním menu v JavaScriptu
+# Metropolis
+Projekt 2: Jednoduchý web s responzivním menu v JavaScriptu
